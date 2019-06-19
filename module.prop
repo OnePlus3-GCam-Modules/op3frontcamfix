@@ -3,5 +3,4 @@ name=OnePlus 3/3T Front Camera Fix
 version=v1.2
 versionCode=3
 author=Savitar, Arnova8G2, MarcAnt01
-description=Increases OnePlus 3T front camera resolution to 16 MP on GCam; enables HDR+, portrait and fixes green tint on both 3 and 3T on GCams that don't
-include the fix apk-side.
+description=Increases OnePlus 3T front camera resolution to 16 MP; Enables HDR+, portrait, raw, etc, on the front camera, allowing GCams without an apk-side fix to work.
