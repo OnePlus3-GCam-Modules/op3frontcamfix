@@ -22,3 +22,21 @@ It fixes some libraries which are placed in ``` system/vendor/lib ```
 Other contributors:
 - [3liteking](https://forum.xda-developers.com/member.php?u=7606633) and [CrashOverride1995](https://forum.xda-developers.com/member.php?u=4691396) for some boot script logic and SELinux fixes from another module, which have been used here;
 - [S4turno](https://forum.xda-developers.com/member.php?u=4487956) for previous template updates to the module and merging both modules into one.
+
+## Changelog
+
+### V 1.2.1
+
+Minor fixes
+
+### V 1.2
+
+Full support of Android Pie (added a bootscript) and update to Magisk Module Installer
+
+### V 1.1
+
+Updated to Magisk Module Template 1500
+
+### V 1.0
+
+Initial release
