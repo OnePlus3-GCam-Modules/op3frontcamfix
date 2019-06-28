@@ -23,6 +23,8 @@ Other contributors:
 - [3liteking](https://forum.xda-developers.com/member.php?u=7606633) and [CrashOverride1995](https://forum.xda-developers.com/member.php?u=4691396) for some boot script logic and SELinux fixes from another module, which have been used here;
 - [S4turno](https://forum.xda-developers.com/member.php?u=4487956) for previous template updates to the module and merging both modules into one.
 
+## Donate
+[Here](https://www.paypal.me/GeorgeKiarie) you can donate to the author of modified libraries. If you are interested about how he managed to do that, check [here](https://www.celsoazevedo.com/files/android/f/defcomg_imx179.mp4) and [here](https://www.celsoazevedo.com/files/android/f/defcomg_imx371.mp4)
 ## Changelog
 
 ### V 1.2.1
