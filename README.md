@@ -23,9 +23,16 @@ Other contributors:
 - [3liteking](https://forum.xda-developers.com/member.php?u=7606633) and [CrashOverride1995](https://forum.xda-developers.com/member.php?u=4691396) for some boot script logic and SELinux fixes from another module, which have been used here;
 - [S4turno](https://forum.xda-developers.com/member.php?u=4487956) for previous template updates to the module and merging both modules into one.
 
+# Special thanks
+
+[Zackptg5](https://github.com/Zackptg5) and [topjohnwu](https://github.com/topjohnwu) for the template
+
 ## Donate
 [Here](https://www.paypal.me/GeorgeKiarie) you can donate to the author of modified libraries. If you are interested about how he managed to do that, check [here](https://www.celsoazevedo.com/files/android/f/defcomg_imx179.mp4) and [here](https://www.celsoazevedo.com/files/android/f/defcomg_imx371.mp4)
 ## Changelog
+
+### V 2.0
+Module rebased on Unity template (now it supports other root solutions like SuperSU and rootless solution, in this case you might need [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105))
 
 ### V 1.2.1
 
