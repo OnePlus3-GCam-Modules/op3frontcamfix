@@ -25,5 +25,3 @@ if $SYSOVER || $DIRSEPOL; then
   rm -f $INFO; mount -o ro,remount /system
   [ -L /system/vendor ] && mount -o ro,remount /vendor
 fi
-
-rm -f /data/adb/service.d/op3hdr.sh
