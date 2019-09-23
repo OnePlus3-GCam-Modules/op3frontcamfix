@@ -96,19 +96,3 @@ unity_custom() {
 }
 
 # Custom Functions for Install AND Uninstall - You can put them here
-
-unzip -o "$ZIPFILE" 'op3hdr.sh' 'system/*' -d $MODPATH >&2
-
-device_check "oneplus3"|"OnePlus3"|"OnePlus3T"
-
-api_check() {
-  if [ "$API" -ge 26 ]; then
-    break
-  else
-    abort "Your Android version doesn't require this fix"
-  fi
-}
-
-cp -f $MODPATH/op3hdr.sh /data/adb/service.d/
-
-chmod 755 /data/adb/service.d/op3hdr.sh

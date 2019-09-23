@@ -7,7 +7,7 @@ On GCams from some devs (not the ones above) it enables HDR+, portrait mode, RAW
 
 ## How about compatibility?
 
-This module works with Magisk 17.0+ and Android 8.0+ (both Oxygen OS and Custom Roms are supported).
+This module works with Magisk 17.0+ and Android 7.0+ (both Oxygen OS and Custom Roms are supported).
 
 ## How does it work?
 
@@ -29,6 +29,7 @@ Other contributors:
 
 ## Donate
 [Here](https://www.paypal.me/GeorgeKiarie) you can donate to the author of modified libraries. If you are interested about how he managed to do that, check [here](https://www.celsoazevedo.com/files/android/f/defcomg_imx179.mp4) and [here](https://www.celsoazevedo.com/files/android/f/defcomg_imx371.mp4)
+
 ## Changelog
 
 ### V 2.0
