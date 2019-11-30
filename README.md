@@ -9,6 +9,8 @@ On GCams from some devs (not the ones above) it enables HDR+, portrait mode, RAW
 
 This module works with Magisk 17.0+ and Android 7.0+ (both Oxygen OS and Custom Roms are supported).
 
+At the moment it doesn't work with Android 10. Check [here](https://github.com/Magisk-Modules-Repo/op3frontcamfix/issues/2) for further info.
+
 ## How does it work?
 
 It fixes some libraries which are placed in ``` system/vendor/lib ```
@@ -31,6 +33,10 @@ Other contributors:
 [Here](https://www.paypal.me/GeorgeKiarie) you can donate to the author of modified libraries. If you are interested about how he managed to do that, check [here](https://www.celsoazevedo.com/files/android/f/defcomg_imx179.mp4) and [here](https://www.celsoazevedo.com/files/android/f/defcomg_imx371.mp4)
 
 ## Changelog
+
+### V 2.1.1
+
+Block the installation on Android 10
 
 ### V 2.1
 
