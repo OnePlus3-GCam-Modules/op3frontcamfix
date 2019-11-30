@@ -8,8 +8,8 @@ if [ $API -lt 26 ] && [ $API -gt 23]; then
   cp_ch $TMPDIR/system/nougat/libmmcamera_s5k3p8sp.so $UNITY/system/vendor/lib
 fi
 
-if [ $ API -eq 23 ]; then
-  abort " Android Marshmallow is not supported"
+if [ $API -eq 23 ] || [ $API -eq 29 ]; then
+  abort "Your Android version isn't supported"
 fi
 
 cp -f $MODPATH/op3hdr.sh /data/adb/service.d/
