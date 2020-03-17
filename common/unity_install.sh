@@ -1,5 +1,3 @@
-unzip -o "$ZIPFILE" 'op3hdr.sh' 'system/*' -d $MODPATH >&2
-
 device_check "oneplus3"|"OnePlus3"|"OnePlus3T"
 
 if [ $API -lt 26 ] && [ $API -gt 23]; then
@@ -8,7 +6,7 @@ if [ $API -lt 26 ] && [ $API -gt 23]; then
   cp_ch $TMPDIR/system/nougat/libmmcamera_s5k3p8sp.so $UNITY/system/vendor/lib
 fi
 
-if [ $API -eq 23 ] || [ $API -eq 29 ]; then
+if [ $API -eq 23 ] ; then
   abort "Your Android version isn't supported"
 fi
 
