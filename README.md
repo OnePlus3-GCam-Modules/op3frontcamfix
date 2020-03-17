@@ -9,8 +9,6 @@ On GCams from some devs (not the ones above) it enables HDR+, portrait mode, RAW
 
 This module works with Magisk 17.0+ and Android 7.0+ (both Oxygen OS and Custom Roms are supported).
 
-At the moment it doesn't work with Android 10. Check [here](https://github.com/Magisk-Modules-Repo/op3frontcamfix/issues/2) for further info.
-
 ## How does it work?
 
 It fixes some libraries which are placed in ``` system/vendor/lib ```
@@ -22,7 +20,7 @@ It fixes some libraries which are placed in ``` system/vendor/lib ```
 - [MarcAnt01](https://forum.xda-developers.com/member.php?u=9262827) updated to the new Magisk installer, added minor improvements and device check.
 
 Other contributors:
-- [3liteking](https://forum.xda-developers.com/member.php?u=7606633) and [CrashOverride1995](https://forum.xda-developers.com/member.php?u=4691396) for some boot script logic and SELinux fixes from another module, which have been used here;
+- [3liteking](https://forum.xda-developers.com/member.php?u=7606633) and [CrashOverride1995](https://forum.xda-developers.com/member.php?u=4691396) for some boot script logic and SELinux fixes from another module, which were present in older versions;
 - [S4turno](https://forum.xda-developers.com/member.php?u=4487956) for previous template updates to the module and merging both modules into one.
 
 # Special thanks
@@ -33,6 +31,10 @@ Other contributors:
 [Here](https://www.paypal.me/GeorgeKiarie) you can donate to the author of modified libraries. If you are interested about how he managed to do that, check [here](https://www.celsoazevedo.com/files/android/f/defcomg_imx179.mp4) and [here](https://www.celsoazevedo.com/files/android/f/defcomg_imx371.mp4)
 
 ## Changelog
+
+### V 2.2
+
+Unity update and support for Android 10
 
 ### V 2.1.1
 
